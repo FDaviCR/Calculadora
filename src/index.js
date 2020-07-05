@@ -6,7 +6,8 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Calculadora</h1>
+    <h1>React</h1>
+    <h2>Calculator</h2>
     <Calculator />
   </React.StrictMode>,
   document.getElementById('root')

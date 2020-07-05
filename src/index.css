@@ -13,7 +13,16 @@ body{
   justify-content: center;
   align-items: center;
   text-align: center;
+  font-weight: bold;
 
   color: white;
   background: linear-gradient(to right, rgb(83, 105, 118), rgb(41,46,73))
+}
+
+h1{
+  font-size: 30px;
+}
+
+h2{
+  font-size: 20px;
 }
